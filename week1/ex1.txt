@@ -1,0 +1,9 @@
+/usr/bin/i686-pc-linux-gnu-gcc-ranlib
+/usr/bin/i686-pc-linux-gnu-gcc-nm
+/usr/bin/i686-pc-linux-gnu-gcc-ar
+/usr/bin/i686-pc-linux-gnu-gcc-10.2.0
+/usr/bin/i686-pc-linux-gnu-gcc
+/usr/bin/gcc-ranlib
+/usr/bin/gcc-nm
+/usr/bin/gcc-ar
+/usr/bin/gcc
